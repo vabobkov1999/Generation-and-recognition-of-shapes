@@ -16,7 +16,7 @@ This work shows the process of generating and recognizing shapes on a two-dimens
 С помощью python3.8 создать программы для генерации и распознавания геометрических фигур на двумерной плоскости.
 
 
-Для более хорошего понимания работы программ советую почитать [материал](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
+Для более хорошего понимания работы советую почитать [материал](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
 
 Выполнение работы
 -----------------
